@@ -1,5 +1,6 @@
 #include <iostream>
 #include<string.h>
+//v2 해석 대상을 스트링으로 바꾸어 인터프리터 고급언어랑 컴파일러고급언어의 차이를 보이고자 했습니다.
 
 class machinelan {
 private:
