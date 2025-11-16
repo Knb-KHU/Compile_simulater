@@ -1,4 +1,5 @@
-#import unittest
+#comsimultest.py
+import unittest
 from compile_simulater_v2.cpp import interpreterhl
 
 class comsimultest(unittest.TestCase):
