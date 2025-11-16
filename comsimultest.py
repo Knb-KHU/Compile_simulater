@@ -14,3 +14,5 @@ class comsimultest(unittest.TestCase):
       a = Assemblylan("456", 0)
       self.assertEqual(a.get(), "456")
       self.assertEqual(a.pre_get(), 0)
+if __name__ == '__main__':
+    unittest.main()
